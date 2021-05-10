@@ -1,8 +1,8 @@
 # SSVEP-Multi-Set-CCA-With-Ref
 
-## Multiset CCA and Multiset CCA with sine-cosine reference
+## Multiset CCA vs Multiset CCA with sine-cosine reference
 
-This code shows the comparison study between the standard canonical correlation analysis (CCA), the Multi-set CCA (MsetCCA), and the Multi-set CCA with sine-cosine reference (MsetCCA-R) for SSVEP recognition. 
+This code shows the comparison study between the standard canonical correlation analysis (CCA), the Multi-set CCA (MsetCCA), and the Multi-set CCA with sine-cosine reference (MsetCCA-R) for SSVEP recognition. Results show that the MsetCCA-R looks better than the other two methods.
 
 Please refer the following papers for more details:
 
