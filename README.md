@@ -1,4 +1,4 @@
-# SSVEP-Multi-set-CCA-With-Ref
+# SSVEP-Multi-Set-CCA-With-Ref
 
 ## Multiset CCA and Multiset CCA with sine-cosine reference
 
