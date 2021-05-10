@@ -10,7 +10,7 @@ Please refer the following papers for more details:
 
 - **MsetCCA: Zhang, Y., et al. (2014). Frequency recognition in SSVEP-based BCI using multiset canonical correlation analysis. International journal of neural systems, 24(04), 1450013.**
 
-- **MsetCCA-R: Wong, C. M., et al. (2020). Spatial Filtering in SSVEP-based BCIs: Unified Framework and New Improvements. IEEE Transactions on Biomedical Engineering.**
+- **MsetCCA-R: Wong, C. M., et al. (2020). Spatial filtering in SSVEP-based BCIs: unified framework and new improvements. IEEE Transactions on Biomedical Engineering, 67(11), 3057-3072.**
 
 This code is prepared by Chi Man Wong (chiman465@gmail.com).
 
