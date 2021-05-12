@@ -1,16 +1,17 @@
-%% Demo of TRCA and its variants for SSVEP Recognition %%%
-% This codes shows how to use the task-related component analysis
-% (TRCA), the TRCA with reference signal (TRCA-R), and the modified 
-% TRCA (mTRCA) for SSVEP recognition.
+% This code shows the comparison study between the standard canonical correlation analysis (CCA), the Multi-set CCA (MsetCCA), and the Multi-set CCA with sine-cosine reference (MsetCCA-R) for SSVEP recognition. Results show that the MsetCCA-R looks better than the other two methods.
 
 % Please refer the following papers for more details:
-% Wong, C. M., et al. (2020). Spatial Filtering in SSVEP-based BCIs: Unified Framework and New Improvements. IEEE Transactions on Biomedical Engineering,
 
-% This code is prepared by Chi Man Wong (chiman465@gmail.com)
-% Date: 
-% 27 July 2020 (v1.0): TRCA and TRCA-R
-% 29 July 2020 (v1.1): Add mTRCA (Tang, J. et al. Optimizing SSVEP-Based 
-% BCI System towards Practical High-Speed Spelling. Sensors 2020, 20, 4186.)
+% Standard CCA: Chen, X., et al. (2015). Filter bank canonical correlation analysis for implementing a high-speed SSVEP-based brain–computer interface. Journal of neural engineering, 12(4), 046008.
+
+% MsetCCA: Zhang, Y., et al. (2014). Frequency recognition in SSVEP-based BCI using multiset canonical correlation analysis. International journal of neural systems, 24(04), 1450013.
+
+% MsetCCA-R: Wong, C. M., et al. (2020). Spatial filtering in SSVEP-based BCIs: unified framework and new improvements. IEEE Transactions on Biomedical Engineering, 67(11), 3057-3072.
+
+% This code is prepared by Chi Man Wong (chiman465@gmail.com).
+
+% Version:
+% 10 May 2021 (v1.0): MsetCCA-R
 
 % if you use this code for a publication, please cite the following paper
 
